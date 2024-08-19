@@ -29,3 +29,5 @@
    ```bash
    git clone https://github.com/HenAsayag/match_the_player.git
    cd match_the_player
+### ONLINE
+Don't want to download the game? No problem, the offline web version is now available : https://henasayag2.itch.io/match-the-player
