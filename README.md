@@ -11,7 +11,7 @@
 - **Mobile Friendly:** Designed with mobile gameplay in mind, ensuring smooth performance across devices.
 
 ## Screenshots
-ד
+![images](mode1.png)``
 ## Getting Started
 
 ### Prerequisites
