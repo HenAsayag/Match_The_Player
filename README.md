@@ -27,5 +27,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/match_the_player.git
+   git clone https://github.com/HenAsayag/match_the_player.git
    cd match_the_player
